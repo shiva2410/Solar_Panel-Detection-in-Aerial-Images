@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'solar'
+}
+
+item {
+  id: 2
+  name: 'roof'
+}
