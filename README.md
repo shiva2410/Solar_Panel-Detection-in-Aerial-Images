@@ -8,3 +8,5 @@ Instead of training our own model from scratch, one can build on existing models
 I have trained a custom solar panel detection model using TensorFlow architecture.
 
 Snapshots of Outcome
+![detected_results](output_1.png)
+![detected_results](output_2.png)
